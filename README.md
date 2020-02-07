@@ -1,4 +1,2 @@
-# journee-visualisation.github.io
-Journée Visu - La journée annuelle du GT Visualisation du GDR IGRV
-
-https://journee-visu.github.io/journee-visu-2020/
+# https://journee-visu.github.io/2020/
+Journée Visu 2020 - La journée annuelle du GT Visualisation du GDR IGRV
